@@ -25,7 +25,7 @@ This Streamlit application leverages Gemini, a large language model from Google 
     
     
     ```
-    git clone https://github.com/your-username/mobileAppScreentoTestsGemini.git
+    git clone https://github.com/heymeowcat/mobileAppScreentoTestsGemini.git
     cd mobileAppScreentoTestsGemini
     ```
     
